@@ -1,0 +1,9 @@
+Doctor
+Nurse
+Pharmacy
+Patient
+Room
+Ward
+Bill
+Number
+Attendant

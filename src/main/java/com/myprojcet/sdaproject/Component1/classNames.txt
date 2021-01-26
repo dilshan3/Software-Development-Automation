@@ -1,0 +1,1 @@
+('Nurse', 10)('Attendant', 9)('Ward', 8)('Pharmacy', 8)('Doctor', 6)('Patient', 6)('Room', 6)('Bill', 6)('booking', 3)
