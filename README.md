@@ -1,40 +1,5 @@
 # Software Development Automation Application
 
-## Group Details
-Group ID- 2020-170
-
-### Supervisor
-Name: Ms. Dinuka Wijendra<br/>
-Email: dinuka.w@sliit.lk
-
-### Co-supervisor
-Name: Ms. Jenny Krishara<br/>
-Email: jenny.k@sliit.lk
-
-#### Member 1 (Leader)
-Name           : A. R. V. Anthony<br/>
-ID number      : IT17140126<br/>
-Email          : it17140126@my.sliit.lk<br/>
-Responsible for: Predicting the software logic by analyzing the customer requirements (Component 1)
-    
-#### Member 2
-Name           : G. M. Dilshan Prasad<br/>
-ID number      : IT17397872<br/>
-Email          : it17397872@my.sliit.lk<br/>
-Responsible for: Automation of mapping requirements into UML diagrams (Component 2)
-
-#### Member 3
-Name           : S. U. Randunuge<br/>
-ID number      : IT17146470<br/>
-Email          : it17146470@my.sliit.lk<br/>
-Responsible for: Detecting unidentified bugs and providing suggestions to eliminate the bugs (Component 3)
-
-#### Member 4
-Name           : S. R. A. M. P. A. Alahakoon<br/>
-ID number      : IT17105712<br/>
-Email          : it17105712@my.sliit.lk<br/>
-Responsible for: Analyzing code quality and calculating code complexity (Component 4)
-
 <br/>
 
 ## Project Description
